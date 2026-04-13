@@ -17,7 +17,7 @@
 \--------------------------------------------------
 
 
-***User Guidelines***
+##User Guidelines##
 
 
 **Repository description**
