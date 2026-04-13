@@ -15,6 +15,9 @@
 
 
 \--------------------------------------------------
+
+
+
 **Repository description**
 This toolbox contains the workflow for running COMSOL simulations and reproducing plots and data analysis detailed in the article "Towards Understanding Electrolyte Salt Inhomogeneities in Lithium-ion Batteries: A Multiscale Model Based on Electrolyte Motion and Poroelasticity". The COMSOL model is a macroscale electrochemical-thermal-poroelastic model used to simulate the operation of a LG MJ1 18650 cells, including electrochemical transport and reactions, temperature evolution, and most importantly: the mechanical response of active material expansion leading to electrolyte motion. Repeated cell cycling is simulated, which leads to electrolyte motion induced salt inhomogeneity (EMSI) and capacity fade. The data produced by the simulation in COMSOL is automatically exported as CSV-files and analyzed using the Python scripts in this repository.
 
