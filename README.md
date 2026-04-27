@@ -44,7 +44,6 @@ The data generated from COMSOL simulations are analyzed and plotted using Python
 4. unravelling the overpotential contributions vs cycle number at 1C cycling (overpotentials.ipynb)
 5. analyzing the evolution of electrolyte conductivity and diffusivity vs cycle number (plot\_electrolyte\_properties.ipynb)
 6. analyzing evolution of porosity, electrolyte reservoir volume and strain during a 1C cycle (porosity\_dynamics.ipynb)
-7. plotting electrolyte motion induced solid-phase lithium inhomogeneity (solid\_lithium\_concentration.ipynb)
 
 
 
